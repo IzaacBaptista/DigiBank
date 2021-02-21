@@ -1,0 +1,16 @@
+/home/izaac/Desktop/clone-git/DigiBank /bin/Debug/net5.0/DigiBank
+/home/izaac/Desktop/clone-git/DigiBank /bin/Debug/net5.0/DigiBank.deps.json
+/home/izaac/Desktop/clone-git/DigiBank /bin/Debug/net5.0/DigiBank.runtimeconfig.json
+/home/izaac/Desktop/clone-git/DigiBank /bin/Debug/net5.0/DigiBank.runtimeconfig.dev.json
+/home/izaac/Desktop/clone-git/DigiBank /bin/Debug/net5.0/DigiBank.dll
+/home/izaac/Desktop/clone-git/DigiBank /bin/Debug/net5.0/ref/DigiBank.dll
+/home/izaac/Desktop/clone-git/DigiBank /bin/Debug/net5.0/DigiBank.pdb
+/home/izaac/Desktop/clone-git/DigiBank /obj/Debug/net5.0/DigiBank.csprojAssemblyReference.cache
+/home/izaac/Desktop/clone-git/DigiBank /obj/Debug/net5.0/DigiBank.GeneratedMSBuildEditorConfig.editorconfig
+/home/izaac/Desktop/clone-git/DigiBank /obj/Debug/net5.0/DigiBank.AssemblyInfoInputs.cache
+/home/izaac/Desktop/clone-git/DigiBank /obj/Debug/net5.0/DigiBank.AssemblyInfo.cs
+/home/izaac/Desktop/clone-git/DigiBank /obj/Debug/net5.0/DigiBank.csproj.CoreCompileInputs.cache
+/home/izaac/Desktop/clone-git/DigiBank /obj/Debug/net5.0/DigiBank.dll
+/home/izaac/Desktop/clone-git/DigiBank /obj/Debug/net5.0/ref/DigiBank.dll
+/home/izaac/Desktop/clone-git/DigiBank /obj/Debug/net5.0/DigiBank.pdb
+/home/izaac/Desktop/clone-git/DigiBank /obj/Debug/net5.0/DigiBank.genruntimeconfig.cache
