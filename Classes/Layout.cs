@@ -6,6 +6,7 @@ namespace DigiBank.Classes
 {
     public class Layout
     {
+        private static List<Pessoa> pessoas = new List<Pessoa>();//toda pessoa criada será armazenada nessa variável
         private static int opcao = 0;
         public static void TelaPrincipal()
         {
