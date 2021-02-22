@@ -26,12 +26,44 @@ namespace DigiBank.Classes
             switch(opcao)
             {
                 case 1: 
-                    Console.WriteLine("Opção 1");
+                    TelaCriarConta();
                     break;
                 case 2:
-                    Console.WriteLine("Opção 2");
+                    TelaLogin();
+                    break;
+                default:
+                    Console.WriteLine("Opção Inválida");
                     break;
             }
+        }
+
+        private static void TelaCriarConta()
+        {
+            Console.Clear();
+
+            Console.WriteLine("                                     ");
+            Console.WriteLine("     Digite seu nome:                ");
+            string nome = Console.ReadLine();
+            Console.WriteLine("    ============================     ");
+            Console.WriteLine("     Digite seu CPF                  ");
+            string cpf = Console.ReadLine();
+            Console.WriteLine("    ============================     ");
+            Console.WriteLine("     Digite sua senha:               ");
+            string senha = Console.ReadLine();
+            Console.WriteLine("    ============================     ");
+        }
+
+        private static void TelaLogin()
+        {
+            Console.Clear();
+
+            Console.WriteLine("                                     ");
+            Console.WriteLine("     Digite seu CPF                  ");
+            string cpf = Console.ReadLine();
+            Console.WriteLine("    ============================     ");
+            Console.WriteLine("     Digite sua senha:               ");
+            string senha = Console.ReadLine();
+            Console.WriteLine("    ============================     ");
         }
     }
 
