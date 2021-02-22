@@ -9,7 +9,7 @@ namespace DigiBank.Classes
     {
         public Conta()
         {
-            this.NumeroDaConta = "0001"; //primeira conta criada receberá esse número
+            this.NumeroConta = "0001"; //primeira conta criada receberá esse número
             Conta.NumeroDaContaSequencial++; // as próximas contas receberão um acréscimo
         }
         public double Saldo { get; protected set; }
@@ -22,7 +22,7 @@ namespace DigiBank.Classes
         }
         public void Deposita(double valor)
         {
-            this.Saldo += valor
+            this.Saldo += valor;
         }
         public bool Saca(double valor)
         {
@@ -38,11 +38,11 @@ namespace DigiBank.Classes
         }
         public string GetNumeroDaAgencia()
         {
-            return this.NumeroDaAgencia;
+            return this.NumeroAgencia;
         }
         public string GetNumeroDaConta()
         {
-            return this.NumeroDaConta;
+            return this.NumeroConta;
         }
     }
 }
